@@ -1,0 +1,30 @@
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\bin\Debug\Lab05.BUS.dll.config
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\bin\Debug\Lab05.BUS.dll
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\bin\Debug\Lab05.BUS.pdb
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\bin\Debug\Lab05.DAL.dll
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\bin\Debug\Lab05.DAL.pdb
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\bin\Debug\Lab05.DAL.dll.config
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.Up2Date
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\obj\Debug\Lab05.BUS.dll
+C:\Users\Administrator\source\repos\Bai-5\Lab05.BUS\obj\Debug\Lab05.BUS.pdb
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\bin\Debug\Lab05.BUS.dll.config
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\bin\Debug\Lab05.BUS.dll
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\bin\Debug\Lab05.BUS.pdb
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\bin\Debug\EntityFramework.dll
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\bin\Debug\Lab05.DAL.dll
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\bin\Debug\Lab05.DAL.pdb
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\bin\Debug\Lab05.DAL.dll.config
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\bin\Debug\EntityFramework.xml
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.AssemblyReference.cache
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\obj\Debug\Lab05.BUS.csproj.Up2Date
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\obj\Debug\Lab05.BUS.dll
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lab05.BUS\obj\Debug\Lab05.BUS.pdb

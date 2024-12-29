@@ -1,0 +1,42 @@
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\bin\Debug\Lap5GUI.exe.config
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\bin\Debug\Lap5GUI.exe
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\bin\Debug\Lap5GUI.pdb
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\bin\Debug\Lab05.BUS.dll
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\bin\Debug\Lab05.DAL.dll
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\bin\Debug\Lab05.BUS.pdb
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\bin\Debug\Lab05.BUS.dll.config
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\bin\Debug\Lab05.DAL.pdb
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\bin\Debug\Lab05.DAL.dll.config
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.Form1.resources
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.csproj.Up2Date
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.exe
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.pdb
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\Bai-5\Lap5GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.csproj.AssemblyReference.cache
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.Form1.resources
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.Properties.Resources.resources
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.csproj.GenerateResource.cache
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.csproj.CoreCompileInputs.cache
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.exe
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.pdb
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\bin\Debug\Lap5GUI.exe.config
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\bin\Debug\Lap5GUI.exe
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\bin\Debug\Lap5GUI.pdb
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\bin\Debug\EntityFramework.dll
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\bin\Debug\Lab05.BUS.dll
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\bin\Debug\Lab05.DAL.dll
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\bin\Debug\Lab05.BUS.pdb
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\bin\Debug\Lab05.BUS.dll.config
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\bin\Debug\Lab05.DAL.pdb
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\bin\Debug\Lab05.DAL.dll.config
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\bin\Debug\EntityFramework.xml
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\PC MSI\OneDrive\Máy tính\Bai-5\Lap5GUI\obj\Debug\Lap5GUI.csproj.Up2Date
